@@ -1,0 +1,10 @@
+{
+  "name": "input-number-to-string",
+  "version": "0.1.0",
+  "description": "Retorna o numero em formato de texto.",
+  "main": "index.js",
+  "repository": "https://github.com/ErisvaldoCorreia/input-number-to-string",
+  "author": "Erisvaldo Correia",
+  "license": "MIT",
+  "private": false
+}
