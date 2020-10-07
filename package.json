@@ -6,5 +6,10 @@
   "repository": "https://github.com/ErisvaldoCorreia/input-number-to-string",
   "author": "Erisvaldo Correia",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
