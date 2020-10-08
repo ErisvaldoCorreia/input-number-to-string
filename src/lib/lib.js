@@ -15,11 +15,11 @@ const lib = ({returnType, onChange, ...props}) => {
     )
 }
 
-NumberToString.propTypes = {
+lib.propTypes = {
     returnType: PropTypes.oneOf(["normal", "monetario", "porcentagem"])
 }
 
-NumberToString.defaulProps = {
+lib.defaulProps = {
     returnType: "normal"
 }
 
